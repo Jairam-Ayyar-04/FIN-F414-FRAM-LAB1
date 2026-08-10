@@ -117,10 +117,6 @@ Before exporting a notebook:
 3. Save the notebook.
 4. Select `File → Save and Export Notebook As → HTML`.
 
-Submit the exported HTML files rather than the `.ipynb` files. HTML allows the code and its corresponding results to be viewed together without running the notebook again.
-
-Notebook export to PDF at times does not work, so HTML is a better option.
-
 Open each exported HTML file once before submission and confirm that all code, tables, figures and written responses are visible.
 
 
