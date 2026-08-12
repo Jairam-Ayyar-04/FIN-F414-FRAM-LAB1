@@ -1,8 +1,13 @@
-# Fama and French International Asset Pricing Replication Lab
+# Lab 1 - Fama and French Asset Pricing Replication Lab
 
+## Submission Deadline - EOD, 23rd August, 2026
 ## Purpose of the Lab
 
-The objective of this lab is to reproduce the selected results from Fama and French (2012) as closely as possible using the current Kenneth French datasets.
+The objective of this lab is to understand how asset-pricing models are evaluated using real portfolio returns and to reproduce selected results from Fama and French (2012) as closely as possible using the current Kenneth French datasets.
+
+By completing the lab, you should learn how to interpret important asset-pricing indicators such as intercepts, factor loadings, t-statistics, R-squared values, the GRS test and the Sharpe ratio of the intercepts. You will examine whether the Capital Asset Pricing Model, the Fama-French three-factor model and the four-factor model that includes momentum can explain the returns of portfolios formed on size, book-to-market equity and momentum. The lab will also help you compare global and local factor models and understand why a model may perform well for some portfolios or regions but not for others.
+
+The broader aim is to connect the asset-pricing concepts covered in class with the way they are applied and tested in an influential empirical finance paper. The lab is therefore not limited to reproducing numerical results. You should be able to explain what the results reveal about the strengths and limitations of each model.
 
 Each notebook provides a suggested structure, a sequence of tasks and some guidance to help you complete the replication. This structure is not the only correct way to solve the lab. You may organize your code differently, create additional cells or use alternative Python methods.
 
