@@ -1,6 +1,6 @@
 # Lab 1 - Fama and French Asset Pricing Replication Lab
 
-## Submission Deadline - EOD, 13 September, 2026
+## Submission Deadline - EOD, 17 September, 2026
 ## Purpose of the Lab
 
 The objective of this lab is to understand how asset-pricing models are evaluated using real portfolio returns and to reproduce selected results from Fama and French (2012) as closely as possible using the current Kenneth French datasets.
